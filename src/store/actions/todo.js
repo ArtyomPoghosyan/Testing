@@ -1,0 +1,4 @@
+export const GET_TODOLIST = 'GET_LIST'
+export const GET_TODOLIST_SUCCESS = 'GET_LIST_SUCCESS'
+export const GET_TODOLIST_FAIL = 'GET_LIST_FAIL'
+
