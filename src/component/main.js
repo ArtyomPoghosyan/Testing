@@ -15,8 +15,8 @@ export const Main = () => {
     ])
 
     const handleDelete = () => {
-        console.log(arr,"123","456","6565465465465")
-        //sdfsd
+        console.log(arr,"123","456",)
+        // sdfsdtyom
     }
 
     return (
